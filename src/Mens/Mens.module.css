@@ -1,0 +1,9 @@
+.products{
+    display:grid;
+    grid-template-columns: repeat(4,1fr);
+    justify-items: center;
+    row-gap: 30px;
+    box-sizing: border-box;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}

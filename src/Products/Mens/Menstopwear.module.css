@@ -1,0 +1,41 @@
+.productbox{
+    width:300px;
+    height:500px;
+    font-size: 16px;
+    font-weight: 500;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 12px;
+}
+
+.img{
+    width:100%;
+    height:75%;
+}
+
+.title{
+    margin-top: 10px;
+    text-align: left;
+    margin-left: 15px;
+}
+
+.desc{
+    text-align: left;
+    margin-left: 15px;
+}
+
+.pricediv{
+    display: flex;
+    width:90%;
+    margin: auto;
+    margin-top: 5px;
+}
+
+.sprice{
+    margin-left: 15px;
+    color:rgb(153, 152, 152);
+}
+
+.discount{
+    margin-left: 15px;
+    color:green;
+}

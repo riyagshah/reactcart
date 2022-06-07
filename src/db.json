@@ -1,0 +1,113 @@
+{
+    "menstopwear":[
+        {
+            "img_1": "https://www.theoutnet.com/variants/images/1647597278478193/F/w520_q80.jpg",
+            "img_2": "https://www.theoutnet.com/variants/images/1647597278478193/R/w1020_q80.jpg",
+            "title": "IRO",
+            "description": "Cornell checked cotton-flannel shirt",
+            "price": 174,
+            "strikedoffprice": 386,
+            "discount": 55,
+            "color": "Grey",
+            "category": "Clothing",
+            "Ccategory": "Casual Shirts",
+            "c1": "Bestseller",
+            "id":1
+        },
+    
+        {
+            "img_1": "https://www.theoutnet.com/variants/images/42247633209030580/F/w520_q80.jpg",
+            "img_2": "https://www.theoutnet.com/variants/images/42247633209030580/R/w1020_q80.jpg",
+            "title": "SANDRO",
+            "description": "Checked cotton-flannel shirt",
+            "price": 110,
+            "strikedoffprice": 245,
+            "discount": 55,
+            "color": "Green",
+            "category": "Clothing",
+            "Ccategory": "Casual Shirts",
+            "id":2
+        },
+        {
+            "img_1": "https://www.theoutnet.com/variants/images/1647597279242083/F/w720_q80.jpg",
+            "img_2": "https://www.theoutnet.com/variants/images/1647597279242083/R/w1020_q80.jpg",
+            "title": "SANDRO",
+            "description": "Cotton-gabardine coat",
+            "price": 220,
+            "strikedoffprice": 490,
+            "discount": 55,
+            "color": "Gold",
+            "category": "Clothing",
+            "Ccategory": "Coat",
+            "c1": "Bestseller",
+            "id":3
+        },
+        {
+            "img_1": "https://www.theoutnet.com/variants/images/1647597276270451/F/w520_q80.jpg",
+            "img_2": "https://www.theoutnet.com/variants/images/1647597276270451/R/w1020_q80.jpg",
+            "title": "VALENTINO",
+            "description": "Organza-paneled cotton-canvas hooded parka",
+            "price": 599,
+            "strikedoffprice": 1198,
+            "discount": 50,
+            "color": "Blue",
+            "category": "Clothing",
+            "Ccategory": "Coat",
+            "id":4
+        },
+        {
+            "img_1": "https://www.theoutnet.com/variants/images/1647597279376896/F/w720_q80.jpg",
+            "img_2": "https://www.theoutnet.com/variants/images/1647597279376896/R/w1020_q80.jpg",
+            "title": "PESERICO",
+            "description": "Cotton-blend chambray shirt",
+            "price": 179,
+            "strikedoffprice": 449,
+            "discount": 60,
+            "color": "Blue",
+            "category": "Clothing",
+            "Ccategory": "Formal Shirt",
+            "c1": "Bestseller",
+            "id":5
+        },
+        {
+            "img_1": "https://www.theoutnet.com/variants/images/33258524072201157/F/w520_q80.jpg",
+            "img_2": "https://www.theoutnet.com/variants/images/1647597276288968/R/w1020_q80.jpg",
+            "title": "VALENTINO",
+            "description": "Cotton-jacquard shirt",
+            "price": 137,
+            "strikedoffprice": 375,
+            "discount": 50,
+            "color": "Pink",
+            "category": "Clothing",
+            "Ccategory": "Formal Shirt",
+            "id":6
+        },
+        {
+            "img_1": "https://www.theoutnet.com/variants/images/1647597278442868/F/w520_q80.jpg",
+            "img_2": "https://www.theoutnet.com/variants/images/1647597278442868/R/w1020_q80.jpg",
+            "title": "IRO",
+            "description": "Headon leather biker jacket",
+            "price": 760,
+            "strikedoffprice": 2175,
+            "discount": 65,
+            "color": "Black",
+            "category": "Clothing",
+            "Ccategory": "Jacket",
+            "c1": "Bestseller",
+            "id":7
+        },
+        {
+            "img_1": "https://www.theoutnet.com/variants/images/1647597278724310/F/w520_q80.jpg",
+            "img_2": "https://www.theoutnet.com/variants/images/1647597278724310/R/w1020_q80.jpg",
+            "title": "DOLCE & GABBANA",
+            "description": "Waxed shell jacket",
+            "price": 170,
+            "strikedoffprice": 341,
+            "discount": 50,
+            "color": "Orange",
+            "category": "Clothing",
+            "Ccategory": "Jacket",
+            "id":8
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+.footer{
+    box-sizing: border-box;
+    padding:30px;
+    background-color: hsl(218,41%,15%);
+    color:white;
+    font-size: 18px;
+}
